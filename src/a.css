@@ -1,0 +1,32 @@
+.Wrapper {
+    height: 100%;
+
+
+}
+
+
+
+.Slide {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.ImgContainer {
+    height: 100%;
+    flex: 1;
+
+
+}
+
+.image {
+    height: 80%;
+}
+
+.InfoContainer {
+
+    flex: 1;
+}
